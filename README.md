@@ -1,6 +1,12 @@
-<h1> Hi, I’m @ashermanli 👋</h1>
+<h1 align='center'> Hi 👋, I'm Abraham</h1>
+<h3 align='center'>Web Developer</h3>
+
+<h2>I Am Interested In: 
 <ul>
-  <li><h3>-I’m interested in web development, security, DevOps, and augmented reality.</h3></li>
+  <li><h3>Web Development</h3></li>
+  <li><h3>Security</h3></li>
+  <li><h3>DevOps</h3></li>
+  <li><h3>Augmented Reality</h3></li>
   <li><h3> -I’m currently learning the MERN stack and creating single page applications.</h3></li>
   <li><h3>-I’m looking to collaborate on any open source projects dealing with React or Java.</h3></li>
 <ul>
@@ -15,6 +21,15 @@
   to continue to grow and expand my understanding and skill-set. </p>
 
 <h2> 📫 How to reach me: abrahamsauce4@gmail.com</h2>
+  
+## Latest steps on my learning journey
+  -Programming a server with NodeJS and Express
+  -Communicating with the Server
+  -Introduction to React
+  -Fundamentals of Web apps
+  -Responsive Web Design (FreeCodeCamp)
+  -The University Of Texas At El Paso (UTEP) Bachelor of Science in Computer Science
+  -El Paso Community College (EPCC) Associate of Arts in Computer Science
 
 <!---
 ashermanli/ashermanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
