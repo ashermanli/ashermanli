@@ -2,16 +2,15 @@
 <h3 align='center'>Web Developer</h3>
 
 <h2>I Am Interested In: 
-<ul>
-  <li><h3>Web Development</h3></li>
-  <li><h3>Security</h3></li>
-  <li><h3>DevOps</h3></li>
-  <li><h3>Augmented Reality</h3></li>
-  <li><h3> -I’m currently learning the MERN stack and creating single page applications.</h3></li>
-  <li><h3>-I’m looking to collaborate on any open source projects dealing with React or Java.</h3></li>
-<ul>
 
-  <p>You can find some of the projects I worked on during my time in University.  
+-<h3>Web Development</h3>
+-<h3>Security</h3>
+-<h3>DevOps</h3>
+-<h3>Augmented Reality</h3>
+-<h3> -I’m currently learning the MERN stack and creating single page applications.</h3>
+-<h3>-I’m looking to collaborate on any open source projects dealing with React or Java.</h3>
+
+##  <p>You can find some of the projects I worked on during my time in University.  
   You can also find the projects I have been working on in the meantime.
 
   I am constantly pushing myself to learn and keep up with the latest technologies.  
