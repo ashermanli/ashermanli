@@ -3,14 +3,14 @@
 
 <h2>I Am Interested In: 
 
-- <h3>Web Development</h3>
-- <h3>Security</h3>
-- <h3>DevOps</h3>
-- <h3>Augmented Reality</h3>
-- <h3> -I’m currently learning the MERN stack and creating single page applications.</h3>
-- <h3>-I’m looking to collaborate on any open source projects dealing with React or Java.</h3>
+- Web Development
+- Security
+- DevOps
+- Augmented Reality
+- I’m currently learning the MERN stack and creating single page applications.
+- I’m looking to collaborate on any open source projects dealing with React or Java.
 
-##  <p>You can find some of the projects I worked on during my time in University.  
+  <p>You can find some of the projects I worked on during my time in University.  
   You can also find the projects I have been working on in the meantime.
 
   I am constantly pushing myself to learn and keep up with the latest technologies.  
@@ -22,13 +22,13 @@
 <h2> 📫 How to reach me: abrahamsauce4@gmail.com</h2>
   
 ## Latest steps on my learning journey
-  -Programming a server with NodeJS and Express
-  -Communicating with the Server
-  -Introduction to React
-  -Fundamentals of Web apps
-  -Responsive Web Design (FreeCodeCamp)
-  -The University Of Texas At El Paso (UTEP) Bachelor of Science in Computer Science
-  -El Paso Community College (EPCC) Associate of Arts in Computer Science
+  - Programming a server with NodeJS and Express
+  - Communicating with the Server
+  - Introduction to React
+  - Fundamentals of Web apps
+  - Responsive Web Design (FreeCodeCamp)
+  - The University Of Texas At El Paso (UTEP) Bachelor of Science in Computer Science
+  - El Paso Community College (EPCC) Associate of Arts in Computer Science
 
 <!---
 ashermanli/ashermanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
