@@ -8,7 +8,7 @@
 - DevOps
 - Augmented Reality
 - I’m currently learning the MERN stack and creating single page applications.
-- I’m looking to collaborate on any open source projects dealing with React or Java.
+- I’m learning a bit of python for some interest in data analysis and AI
 
   <p>You can find some of the projects I worked on during my time in University.  
   You can also find the projects I have been working on in the meantime.
@@ -22,6 +22,8 @@
 <h2> 📫 How to reach me: abrahamsauce4@gmail.com</h2>
   
 ## Latest steps on my learning journey
+  - User administration
+  - Testing Express Servers
   - Programming a server with NodeJS and Express
   - Communicating with the Server
   - Introduction to React
